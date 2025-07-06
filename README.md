@@ -1,7 +1,8 @@
 # Utron CLI
 
 Utron is a fast, minimal, AI-powered command-line assistant for developers who prefer terminal over GUI.  
-It can generate, run, explain, compare commands, and show system-level details directly in the terminal.
+It can generate, run, explain, compare commands, and show system-level details directly in the terminal
+
 
 ---
 
