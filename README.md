@@ -18,8 +18,28 @@ It can generate, run, explain, compare commands, and show system-level details d
 - Flags for developer info and tool intro  
 
 ---
+## 💻 Windows Installation Guide
 
-## Installation
+### Step 1: Install Node.js
+
+- Download latest **Node.js (LTS)** from: https://nodejs.org  
+- Install it (make sure to check **“Add to PATH”** during installation)
+
+### Step 2: Open Command Prompt or PowerShell
+
+Press `Win + R` → type `cmd` or `powershell` → press Enter.
+
+### Step 3: Install Utron globally
+
+```bash
+npm install -g utron
+````
+### step 4: Verify 
+```bash
+  utron --v
+````
+
+## Installation Linux
 
 Install Utron globally via npm:
 
