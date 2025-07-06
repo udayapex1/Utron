@@ -1,0 +1,28 @@
+{
+  "name": "utron",
+  "version": "2.1.2",
+  "main": "index.js",
+  "type": "module",
+  "description": "AI-powered terminal assistant for developers.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "utron": "./bin/utron.js"
+  },
+  "keywords": [
+    "cli",
+    "ai",
+    "dev",
+    "terminal",
+    "utron"
+  ],
+  "author": "Uday Pareta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "clipboardy": "^4.0.0",
+    "dotenv": "^17.0.1",
+    "systeminformation": "^5.27.7"
+  }
+}
