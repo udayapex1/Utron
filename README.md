@@ -110,21 +110,11 @@ Utron is built using modern backend and system-level tooling:
 
 ## Screenshots
 
-> Place these inside a folder named `/screenshots` in your repo:
-
-```
-screenshots/utron-intro.png  
-screenshots/utron-ai.png  
-screenshots/utron-sysconfig.png
-```
-
-To display them inside the README:
-
-```
+![Step 1](https://raw.githubusercontent.com/udayapex1/AnanlyZer-/main/Utron-NPM-/screenshots/demoAi.png)
 ![Intro](screenshots/utron-intro.png)  
 ![AI](screenshots/utron-ai.png)  
 ![SysConfig](screenshots/utron-sysconfig.png)
-```
+
 
 ---
 
