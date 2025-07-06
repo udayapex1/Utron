@@ -109,6 +109,8 @@ Utron is built using modern backend and system-level tooling:
 ---
 
 ## Screenshots
+- **Intro : with help command** 
+![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/intro.png)
  - **Asking To Genrate Commands**
 ![Step 1](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/demAi.png)
  - **Asking To Compare things**
@@ -117,8 +119,12 @@ Utron is built using modern backend and system-level tooling:
 ![AI](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/demoExplain.png)
  - **List of Basic Linux Commnads** 
 ![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/demoLinuxCommand.png)
- - **List of Basic Linux Commnads** 
-![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/demoLinuxCommand.png)
+ - **List of Basic Windows Commnads** 
+![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/demoWindowsCommand.png)
+ - **List of Basic System Configuration** 
+![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/blob/main/public/screenshots/demoSysSonfig.png)
+
+
 
 
 ---
