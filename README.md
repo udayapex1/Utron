@@ -122,7 +122,7 @@ Utron is built using modern backend and system-level tooling:
  - **List of Basic Windows Commnads** 
 ![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/demoWindowsCommand.png)
  - **List of Basic System Configuration** 
-![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/blob/main/public/screenshots/demoSysSonfig.png)
+![SysConfig](https://raw.githubusercontent.com/udayapex1/Utron/main/public/screenshots/demoSysSonfig.png)
 
 
 
