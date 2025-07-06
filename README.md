@@ -110,7 +110,7 @@ Utron is built using modern backend and system-level tooling:
 
 ## Screenshots
 
-![Step 1](https://raw.githubusercontent.com/udayapex1/AnanlyZer-/main/Utron-NPM-/screenshots/demoAi.png)
+![Step 1](https://raw.githubusercontent.com/udayapex1/Utron/blob/main/public/screenshots/demAi.png)
 ![Intro](screenshots/utron-intro.png)  
 ![AI](screenshots/utron-ai.png)  
 ![SysConfig](screenshots/utron-sysconfig.png)
